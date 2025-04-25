@@ -33,5 +33,3 @@ This is a minimal theme switcher app built with React. It allows users to toggle
 Check it out here:  
 👉 [module6-6.vercel.app](https://module6-6.vercel.app)
 
-## 📁 Folder Structure (Simplified)
-
